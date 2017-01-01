@@ -1,30 +1,99 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 31st - 2016
+**Today's Progress**: Started to work on my website (fayadhahmed.me), Editied out some html, and css. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I'm going to make plans to completely design and develop my own personal website. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** www.fayadhahmed.me
 
 
-### Day 1: June 27, Monday
+### Day 1: January 1st - 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 2: January 2nd - 2017
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 3: January 3rd - 2017
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 4: January 4th - 2017
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 5: January 5th- 2017
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 5: January 6th- 2017
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 5: January 7th- 2017
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 5: January 8th- 2017
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 5: January 9th- 2017
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 5: January 10th- 2017
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 

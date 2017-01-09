@@ -21,11 +21,11 @@ Built and modified NumberWizard, a Unity Console Game.
 ### Day 2: January 8th - 2017
 
 
-**Today's Progress**: 
+**Today's Progress**: Began Project 2 from the Course, Built my own version of Text101(Hitman, Piano Redemption
 
-**Thoughts:** 
+**Thoughts:** Boy was this fun, Learnt a ton on Unitiy and Assets building this, although it was highly repitive coming up with a story was the best part. 
 
-**Link to work:** 
+**Link to work:** <a href="https://github.com/Fayadh56/UnityProjects/blob/master/Text101/Assets/TextController.cs">Hitman</a> 
 
 ### Day 3: January 9th - 2017
 

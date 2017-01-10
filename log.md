@@ -30,11 +30,11 @@ Built and modified NumberWizard, a Unity Console Game.
 ### Day 3: January 9th - 2017
 
 
-**Today's Progress**: 
+**Today's Progress**: Finished the hitman game project more or less. 
 
-**Thoughts:** 
+**Thoughts:** --
 
-**Link to work:** 
+**Link to work:** fayadhahmed.me/game/Hitman
 
 ### Day 4: January 10th - 2017
 

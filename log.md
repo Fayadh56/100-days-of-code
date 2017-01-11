@@ -39,11 +39,11 @@ Built and modified NumberWizard, a Unity Console Game.
 ### Day 4: January 10th - 2017
 
 
-**Today's Progress**: 
+**Today's Progress**: Started on NumberWizardUI, 3rd Unity Project. Learning how to form UI components in Unity, and C#. 
 
-**Thoughts:** 
+**Thoughts:** So far so good. 
 
-**Link to work:** 
+**Link to work:** <a href="https://github.com/Fayadh56/UnityProjects/tree/master/NumberWizardUI">NumberWizard V2.0</a>
 
 ### Day 5: January 11th- 2017
 
